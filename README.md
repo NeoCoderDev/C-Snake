@@ -17,7 +17,7 @@ Control the snake to eat food, grow longer, and avoid hitting the walls or yours
 - Console-based UI
 - Object-Oriented Programming
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure you have **.NET SDK** installed.
 2. Open terminal in the project folder.
